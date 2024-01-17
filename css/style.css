@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  height: 62px;
+}
+
+.container {
+  width: 1174px;
+  margin-top: 40px;
+  display: flex;
+}
+
+.logo {
+  margin-right: 460px;
+}
+
+.link {
+  margin-right: 34px;
+}
+
+.main {
+  margin-top: 84px;
+  display: flex;
+}
+
+.text {
+  margin-left: 373px;
+  padding-bottom: 20px;
+}
+
+.info {
+  margin-left: 373px;
+  padding-bottom: 32px;
+}
+
+.button {
+  margin-left: 373px;
+}
+
+.footer {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 373px;
+}
